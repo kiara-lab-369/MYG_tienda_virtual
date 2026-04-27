@@ -100,13 +100,7 @@ nav h1 {
 .menu li:focus-within .submenu {
     display: block;
 }
-.eslogan {
-    text-align: center;
-    padding: 20px;
-    background-color: #f5a1bc;  /* Un color suave de fondo */
-    font-size: 24px;
-    font-weight: bold;
-    color: rgb(255, 255, 255)
+
 }
 
 /* ===== CONTENIDO ===== */
@@ -118,6 +112,13 @@ nav h1 {
     padding: 50px;
     flex-wrap: wrap;
 }
+.eslogan {
+    text-align: center;
+    padding: 20px;
+    background-color: #f5a1bc;  /* Un color suave de fondo */
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(255, 255, 255)
 
 /* ===== CARDS ===== */
 .card {
